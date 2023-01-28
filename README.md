@@ -1,4 +1,4 @@
-# Github Action - Comment Pull request
+# Github Action - Comment Pull request \o/
 
 This github action comment an opened PR with a given message. You can also put reactions to the comment.
 
